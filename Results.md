@@ -104,5 +104,9 @@ Most of the participants liked the product and were very much willing to recomme
  - Given the limited number of test subjects, the results are not very conclusive. A large number of subjects would need to be surveyed in order to identify the viability of the bot.
  
  - There is a high chance that the reported responses from participants may not have been timed accurately during which the experiment was conducted. 
+ 
+  - The experience of the developers who worked on the lab hasn't been accounted which can make a big difference in the results. As it would be much easier for an experienced software developer compared to someone who doesn't have any professional experience. 
+
+ - As the experiment was performed virtually, incase of in person experiments, we may see some variation in the results. 
 
 ---
