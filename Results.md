@@ -64,10 +64,19 @@ Majority of the people liked the product and were very much willing to recommned
 ---
 **CONCLUSIONS**
 
+ - According to the analysis, our bot is agreed to be easily integrated into daily usage and is likely to be used by many. 
+
+ - The survey results also indicate that the time taken for setup is randomly distributed with different users.
+
+ - Although some of the lab rats expressed that the setup was complicated in a developer perspective, most of the work is relatively easy due to the docker containerization of both the front end and the back end. The complicated design is also due to the complex use case of the application, which is a major consideration.  
+
+ - It can be observed that the setup environment can be tricky, but the features and the ease of use was given a green light by the majority of the lab rats. 
+
+
 ---
 **THREATS TO VALIDITY**
 
-Given the limited number of test subjects, the results are not very conclusive. A large number of subjects would need to be surveyed in order to identify the viability of the bot. <br />
-There is a high chance that the reported responses from participants may not have been timed accurately during which the experiment was conducted. 
+ - Given the limited number of test subjects, the results are not very conclusive. A large number of subjects would need to be surveyed in order to identify the viability of the bot. <br />
+ - There is a high chance that the reported responses from participants may not have been timed accurately during which the experiment was conducted. 
 
 ---
