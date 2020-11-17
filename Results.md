@@ -29,7 +29,7 @@ User Acceptance Testing (UAT)
 
 Note - Based on the questions asked in the Typeform, the generated visual graphs are as follows. 
 
-#### Question: How long did it take for you test the bot (Including the time taken to explain the steps required to setup the bot in lieu of actual setup)
+#### *Question: How long did it take for you test the bot (Including the time taken to explain the steps required to setup the bot in lieu of actual setup)*
 
 <img src="https://i.imgur.com/U3wJSvJ.png" />
  
@@ -38,31 +38,31 @@ The time reported here is in minutes.
 As you can see the minimum time reported by the participants for testing the bot is 14 mins, and the maximum time reported by the participants is 30 mins and the average time reported is around 22 mins.
 
 
-#### Question: Having explained the steps required to setup the bot on your machine, how much time do you expect it would take?
+#### *Question: Having explained the steps required to setup the bot on your machine, how much time do you expect it would take?*
 
 <img src="https://i.imgur.com/ZgON2mf.png" />
 The major portion of the time in setting up the bot is consumed in backend service setup which is almost one-fourth of overall time, followed by UI setup and slack service setup which is around 15% and then followed by verification and tools download.
 
-#### Question: How easy is the setup on a scale of 1 to 5, 1 being the easiest and 5 being the hardest?
+#### *Question: How easy is the setup on a scale of 1 to 5, 1 being the easiest and 5 being the hardest?*
 
 <img src="https://i.imgur.com/gI6rkTe.png" />
 
 Most of the participants felt the setup was relatively moderate, not being too easy and not being too hard, somewhere in between. This might be due to backend service setup which is time consuming task.
 
-#### Question: Did the bot crash during your testing?
+#### *Question: Did the bot crash during your testing?*
 
 <img src="https://i.imgur.com/L4iy2PZ.png" />
 
 No crashes were reported during the testing of the product.
 
-#### Question: If the bot was relased for use, with appropriate use case, how likely are you to use this product, 1 being unlikely and 5 being very likely?
+#### *Question: If the bot was relased for use, with appropriate use case, how likely are you to use this product, 1 being unlikely and 5 being very likely?*
 
 <img src="https://i.imgur.com/VU42YLa.png" />
 
 Majority of the participants were impressed by the product and likely to use the product if released for use with proper usecase.
 
 
-#### Question: How was your overall experience using the bot on a scale of 1 to 5, 1 being least likely and 5 being most likely. Would you recommend its usage to others?
+#### *Question: How was your overall experience using the bot on a scale of 1 to 5, 1 being least likely and 5 being most likely. Would you recommend its usage to others?*
 
 <img src="https://i.imgur.com/0DLNil7.png" />
 
@@ -72,6 +72,11 @@ Most of the participants liked the product and were very much willing to recomme
 **CONCLUSIONS**
 
  - According to the analysis, our bot is agreed to be easily integrated into daily usage and is likely to be used by many. 
+ 
+ - The survey results also indicate that the time taken for setup is randomly distributed with different users.
+
+ - Although some of the lab rats expressed that the setup was complicated in a developer perspective, most of the work is relatively easy due to the docker containerization of both the front end and the back end. The complicated design is also due to the complex use case of the application, which is a major consideration.  
+
 
 ---
 **THREATS TO VALIDITY**
