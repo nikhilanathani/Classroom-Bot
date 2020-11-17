@@ -9,14 +9,25 @@ Observations from the 2nd lab conducted on 10 participants from CSC 510 Fall 202
 Given the complexity of the application, we did not ask the lab participants to setup the bot on their local, and instead provided them with a ready setup. To access the ease of setup from a developer's perspective, we instead explained them all the steps involved in setup and asked them to answer survey questions based on their understanding of software development and the information provided during the session.
 
 ---
+**METHOD USED**
 
-**Method & Materials Used**
+User Acceptance Testing (UAT)
 
-- The testing was done over a zoom call. All the details about the setup and the instructions for performing the given tasks were shared during that time.
+---
+**MATERIALS USED**
 
-- A typeform was provided to the lab rats, to keep track of the time spent on the tasks given to them.
+ - The testing was done over a zoom call. All the details about the setup and the instructions for performing the given tasks were shared during that time.
 
--
+ - A typeform was provided to the lab rats, to keep track of the time spent on the tasks given to them.
+
+ - The testing was done by creating a VCL instance created by us, and provided the credentials to the participants.
+ 
+ - We compared the results gathered during the testing and created relative graphs using Adobe Spark. 
+
+---
+**ANALYSIS**
+
+Note - Based on the questions asked in the Typeform, the generated visual graphs are as follows. 
 
 ### Question: How long did it take for you test the bot (Including the time taken to explain the steps required to setup the bot in lieu of actual setup)
 
