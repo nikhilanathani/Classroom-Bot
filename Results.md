@@ -10,6 +10,12 @@ Given the complexity of the application, we did not ask the lab participants to 
 
 ---
 
+**Method & Materials Used**
+
+- The testing was done over a zoom call. All the details about the setup and the instructions for performing the given tasks were shared during that time.
+
+
+
 ### Question: How long did it take for you test the bot (Including the time taken to explain the steps required to setup the bot in lieu of actual setup)
 
 <img src="https://i.imgur.com/U3wJSvJ.png" />
