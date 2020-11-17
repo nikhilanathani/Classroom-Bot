@@ -76,7 +76,8 @@ Majority of the people liked the product and were very much willing to recommned
 ---
 **THREATS TO VALIDITY**
 
- - Given the limited number of test subjects, the results are not very conclusive. A large number of subjects would need to be surveyed in order to identify the viability of the bot. <br />
+ - Given the limited number of test subjects, the results are not very conclusive. A large number of subjects would need to be surveyed in order to identify the viability of the bot. 
+ 
  - There is a high chance that the reported responses from participants may not have been timed accurately during which the experiment was conducted. 
 
 ---
