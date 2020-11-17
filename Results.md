@@ -112,9 +112,9 @@ Most of the participants liked the product and were very much willing to recomme
  
  - There is a high chance that the reported responses from participants may not have been timed accurately during which the experiment was conducted. 
  
-  - The experience of the developers who worked on the lab hasn't been accounted which can make a big difference in the results. As it would be much easier for an experienced software developer compared to someone who doesn't have any professional experience. 
+ - The experience of the developers who worked on the lab hasn't been accounted which can make a big difference in the results. As it would be much easier for an experienced software developer compared to someone who doesn't have any professional experience. 
 
- - As the experiment was performed virtually, we may see some variation in the results incase of in person experiments. 
+ - As the experiment was performed virtually, it is likely that there would be some variation in the results if it were in person experiments. 
  
 
 ---
