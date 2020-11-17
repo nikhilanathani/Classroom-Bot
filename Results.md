@@ -51,6 +51,8 @@ The major portion of the time in setting up the bot is consumed in backend servi
 
 <img src="https://i.imgur.com/L4iy2PZ.png" />
 
+No crashes were reported during the testing of the product.
+
 ### Question: If the bot was relased for use, with appropriate use case, how likely are you to use this product, 1 being unlikely and 5 being very likely?
 
 <img src="https://i.imgur.com/VU42YLa.png" />
@@ -62,7 +64,7 @@ Majority of the participants were impressed by the product and likely to use the
 
 <img src="https://i.imgur.com/0DLNil7.png" />
 
-Most of the participants liked the product and were very much willing to recommned it to others.
+Most of the participants liked the product and were very much willing to recommend it to others.
 
 ---
 **CONCLUSIONS**
