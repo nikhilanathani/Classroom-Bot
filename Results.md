@@ -25,7 +25,7 @@ User Acceptance Testing (UAT)
  - We compared the results gathered during the testing and created relative graphs using Adobe Spark. 
 
 ---
-**ANALYSIS**
+**ANALYSIS & OBSERVATIONS**
 
 Note - Based on the questions asked in the Typeform, the generated visual graphs are as follows. 
 
@@ -59,8 +59,13 @@ The major portion of the time in setting up the bot is consumed in backend servi
 
 <img src="https://i.imgur.com/0DLNil7.png" />
 
+---
+**CONCLUSIONS**
 
-## Threats to Validity
+---
+**THREATS TO VALIDITY**
 
 Given the limited number of test subjects, the results are not very conclusive. A large number of subjects would need to be surveyed in order to identify the viability of the bot. <br />
 There is a high chance that the reported responses from participants may not have been timed accurately during which the experiment was conducted. 
+
+---
