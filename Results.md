@@ -11,7 +11,7 @@ Given the complexity of the application, we did not ask the lab participants to 
 ---
 **METHOD USED**
 
-User Acceptance Testing (UAT)
+Our method of testing was User Acceptance Testing(UAT). User Acceptance Testing is carried out in a separate testing environment with production-like data setup. It is kind of black box testing where two or more end-users will be involved. Hence we configured the setup environment in a VCL instance. 
 
 ---
 **MATERIALS USED**
@@ -39,13 +39,16 @@ The time reported here is in minutes.
 As you can see the minimum time reported by the participants for testing the bot is 14 mins, and the maximum time reported by the participants is 30 mins and the average time reported is around 22 mins.
 ~~~
 
+
 > #### *Question: Having explained the steps required to setup the bot on your machine, how much time do you expect it would take?*
+
 
 <img src="https://i.imgur.com/ZgON2mf.png" />
 
 ~~~
 The major portion of the time in setting up the bot is consumed in backend service setup which is almost one-fourth of overall time, followed by UI setup and slack service setup which is around 15% and then followed by verification and tools download.
 ~~~
+
 
 > #### *Question: How easy is the setup on a scale of 1 to 5, 1 being the easiest and 5 being the hardest?*
 
@@ -55,6 +58,7 @@ The major portion of the time in setting up the bot is consumed in backend servi
 Most of the participants felt the setup was relatively moderate, not being too easy and not being too hard, somewhere in between. This might be due to backend service setup which is time consuming task.
 ~~~
 
+
 > #### *Question: Did the bot crash during your testing?*
 
 <img src="https://i.imgur.com/L4iy2PZ.png" />
@@ -62,6 +66,7 @@ Most of the participants felt the setup was relatively moderate, not being too e
 ~~~
 No crashes were reported during the testing of the product.
 ~~~
+
 
 > #### *Question: If the bot was relased for use, with appropriate use case, how likely are you to use this product, 1 being unlikely and 5 being very likely?*
 
@@ -71,6 +76,7 @@ No crashes were reported during the testing of the product.
 Majority of the participants were impressed by the product and likely to use the product if released for use with proper usecase.
 ~~~
 
+
 > #### *Question: Approximately, how much time did you save by using the bot, instead of finding the answers manually?*
 
 <img src="https://i.imgur.com/T9p5DP8.png" />
@@ -78,6 +84,7 @@ Majority of the participants were impressed by the product and likely to use the
 ~~~
 Most of the participants reported a substantial amount of time saving which shows a positive outlook for the product.
 ~~~
+
 
 > #### *Question: How was your overall experience using the bot on a scale of 1 to 5, 1 being least likely and 5 being most likely. Would you recommend its usage to others?*
 
