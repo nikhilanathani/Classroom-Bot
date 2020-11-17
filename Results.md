@@ -104,6 +104,8 @@ Most of the participants liked the product and were very much willing to recomme
  - Although some of the lab rats expressed that the setup was complicated in a developer perspective, most of the work is relatively easy due to the docker containerization of both the front end and the back end. The complicated design is also due to the complex use case of the application, which is a major consideration.  
 
  - It can be observed that the setup environment can be tricky, but the features and the ease of use was given a green light by the majority of the lab rats. 
+ 
+ - Overall, the classroom-bot can be a reliable and maintainable tool to save time in an organized manner.
 
 ---
 **THREATS TO VALIDITY**
