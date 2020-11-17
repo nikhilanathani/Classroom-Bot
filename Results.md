@@ -107,11 +107,7 @@ Most of the participants liked the product and were very much willing to recomme
  
   - The experience of the developers who worked on the lab hasn't been accounted which can make a big difference in the results. As it would be much easier for an experienced software developer compared to someone who doesn't have any professional experience. 
 
- - As the experiment was performed virtually, incase of in person experiments, we may see some variation in the results. 
-
- - The experience of the developers who worked on the lab hasn't been accounted which can make a big difference in the results. As it would be much easier for an experienced software developer compared to someone who doesn't have any professional experience. 
-
- - As the experiment was performed virtually, incase of in person experiments, we may see some variation in the results. 
+ - As the experiment was performed virtually, we may see some variation in the results incase of in person experiments. 
  
 
 ---
