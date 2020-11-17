@@ -61,6 +61,11 @@ No crashes were reported during the testing of the product.
 
 Majority of the participants were impressed by the product and likely to use the product if released for use with proper usecase.
 
+### *Question: How much time did you save by using the bot, instead of manually looking for those answers?*
+
+<img src="https://i.imgur.com/jH89ltB.png" />
+
+Most of the participants found the bot useful and reported substantial time saving because of the slack bot.
 
 #### *Question: How was your overall experience using the bot on a scale of 1 to 5, 1 being least likely and 5 being most likely. Would you recommend its usage to others?*
 
