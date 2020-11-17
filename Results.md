@@ -59,6 +59,8 @@ The major portion of the time in setting up the bot is consumed in backend servi
 
 <img src="https://i.imgur.com/0DLNil7.png" />
 
+Majority of the people liked the product and were very much willing to recommned it to others
+
 ---
 **CONCLUSIONS**
 
