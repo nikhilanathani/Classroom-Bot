@@ -55,29 +55,22 @@ The major portion of the time in setting up the bot is consumed in backend servi
 
 <img src="https://i.imgur.com/VU42YLa.png" />
 
+Majority of the participants were impressed by the product and likely to use the product if released for use with proper usecase.
+
+
 ### Question: How was your overall experience using the bot on a scale of 1 to 5, 1 being least likely and 5 being most likely. Would you recommend its usage to others?
 
 <img src="https://i.imgur.com/0DLNil7.png" />
 
-Majority of the people liked the product and were very much willing to recommned it to others
+Most of the participants liked the product and were very much willing to recommned it to others.
 
 ---
 **CONCLUSIONS**
 
- - According to the analysis, our bot is agreed to be easily integrated into daily usage and is likely to be used by many. 
-
- - The survey results also indicate that the time taken for setup is randomly distributed with different users.
-
- - Although some of the lab rats expressed that the setup was complicated in a developer perspective, most of the work is relatively easy due to the docker containerization of both the front end and the back end. The complicated design is also due to the complex use case of the application, which is a major consideration.  
-
- - It can be observed that the setup environment can be tricky, but the features and the ease of use was given a green light by majority of the lab rats. 
-
-
 ---
 **THREATS TO VALIDITY**
 
- - Given the limited number of test subjects, the results are not very conclusive. A large number of subjects would need to be surveyed in order to identify the viability of the bot. 
- 
- - There is a high chance that the reported responses from participants may not have been timed accurately during which the experiment was conducted. 
+Given the limited number of test subjects, the results are not very conclusive. A large number of subjects would need to be surveyed in order to identify the viability of the bot. <br />
+There is a high chance that the reported responses from participants may not have been timed accurately during which the experiment was conducted. 
 
 ---
