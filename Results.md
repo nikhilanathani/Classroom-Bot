@@ -47,6 +47,8 @@ The major portion of the time in setting up the bot is consumed in backend servi
 
 <img src="https://i.imgur.com/gI6rkTe.png" />
 
+Most of the participants felt the setup was relatively moderate, not being too easy and not being too hard, somewhere in between. This might be due to backend service setup which is time consuming task.
+
 ### Question: Did the bot crash during your testing?
 
 <img src="https://i.imgur.com/L4iy2PZ.png" />
