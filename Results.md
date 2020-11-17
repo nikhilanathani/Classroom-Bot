@@ -71,6 +71,14 @@ No crashes were reported during the testing of the product.
 Majority of the participants were impressed by the product and likely to use the product if released for use with proper usecase.
 ~~~
 
+> #### *Question: Approximately, how much time did you save by using the bot, instead of finding the answers manually?*
+
+<img src="https://i.imgur.com/T9p5DP8.png" />
+
+~~~
+Most of the participants reported a substantial amount of time saving which shows a positive outlook for the product.
+~~~
+
 > #### *Question: How was your overall experience using the bot on a scale of 1 to 5, 1 being least likely and 5 being most likely. Would you recommend its usage to others?*
 
 <img src="https://i.imgur.com/0DLNil7.png" />
@@ -96,6 +104,10 @@ Most of the participants liked the product and were very much willing to recomme
  - Given the limited number of test subjects, the results are not very conclusive. A large number of subjects would need to be surveyed in order to identify the viability of the bot.
  
  - There is a high chance that the reported responses from participants may not have been timed accurately during which the experiment was conducted. 
+ 
+  - The experience of the developers who worked on the lab hasn't been accounted which can make a big difference in the results. As it would be much easier for an experienced software developer compared to someone who doesn't have any professional experience. 
+
+ - As the experiment was performed virtually, incase of in person experiments, we may see some variation in the results. 
 
  - The experience of the developers who worked on the lab hasn't been accounted which can make a big difference in the results. As it would be much easier for an experienced software developer compared to someone who doesn't have any professional experience. 
 
