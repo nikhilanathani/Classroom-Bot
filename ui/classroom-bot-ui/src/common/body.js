@@ -15,9 +15,9 @@ class Body extends Component {
         loggedIn: false
       };
     else
-    this.state = {
-      loggedIn: true
-    };
+      this.state = {
+        loggedIn: true
+      };
   }
 
   render() {

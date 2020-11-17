@@ -28,34 +28,34 @@ class App extends Component {
   // }
 
   render() {
-  //   var { isLoaded, items } = this.state;
+    //   var { isLoaded, items } = this.state;
 
-  //   if (!isLoaded) {
-  //     return <div>Loading..</div>;
-  //   } else {
-  //     return (
-  //       //<div className="App">Data is loaded</div>
-  //       <div>
-  //         <ul>
-  //           {items &&
-  //             items.map((item) => (
-  //               <li key={item.model}>
-  //                 workspace_id:{item.fields.workspace_id}
-  //               </li>
-  //             ))}
-  //           ;
-  //         </ul>
-  //       </div>
-  //     );
-  //   }
-  // }
-     
-  return (
-    <div className="App">
-      <TopBar app={this.state} />
-      <Body app={this.state} />
-    </div>
-);
+    //   if (!isLoaded) {
+    //     return <div>Loading..</div>;
+    //   } else {
+    //     return (
+    //       //<div className="App">Data is loaded</div>
+    //       <div>
+    //         <ul>
+    //           {items &&
+    //             items.map((item) => (
+    //               <li key={item.model}>
+    //                 workspace_id:{item.fields.workspace_id}
+    //               </li>
+    //             ))}
+    //           ;
+    //         </ul>
+    //       </div>
+    //     );
+    //   }
+    // }
+
+    return (
+      <div className="App">
+        <TopBar app={this.state} />
+        <Body app={this.state} />
+      </div>
+    );
   }
 }
 
