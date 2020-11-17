@@ -41,6 +41,7 @@ As you can see the minimum time reported by the participants for testing the bot
 ### Question: Having explained the steps required to setup the bot on your machine, how much time do you expect it would take?
 
 <img src="https://i.imgur.com/ZgON2mf.png" />
+The major portion of the time in setting up the bot is consumed in backend service setup which is almost one-fourth of overall time, followed by UI setup and slack service setup which is around 15% and then followed by verification and tools download.
 
 ### Question: How easy is the setup on a scale of 1 to 5, 1 being the easiest and 5 being the hardest?
 
